@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 its been a while im stuck somewhere ~~ hehi
+[freecodecamp](https://www.youtube.com/watch?v=LfaMVlDaQ24)
 
 <!--
 **ShifanaSShfk/ShifanaSShfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
