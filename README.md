@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">Hey there! I'm Shifana 👋</h1>
-<p align="center">🚀 NITC CSE'26 | Passionate about full-stack development, GenAI, and research-based learning!</p>
+<p align="center">NITC CSE'26 | Passionate about full-stack development, GenAI, and research-based learning!</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shifanasshafeek" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-shifanasshafeek-blue?style=flat-square&logo=linkedin"></a>
@@ -42,12 +42,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shifanasshafeek&show_icons=true&theme=radical" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifanasshafeek&layout=compact&theme=radical" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShifanaSShfk&show_icons=true&theme=radical" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifanaSShfk&layout=compact&theme=radical" width="47%">
 </p>
 
 ---
 
-### ✨ Fun Fact:
-> I hosted campus events, contributed to multiple tech fests, and I'm currently working on projects in DBMS, image processing, and GenAI!
+
 
