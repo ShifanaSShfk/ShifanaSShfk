@@ -4,7 +4,7 @@
 <p align="center">NITC CSE'26 | Passionate about full-stack development, GenAI, and research-based learning!</p>
 
 <a href="https://www.linkedin.com/in/shifana-s-shafeek-6b176b254/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-shifana--s--shafeek--6b176b254-blue?style=flat-square&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-shifanasshafeek-blue?style=flat-square&logo=linkedin">
 </a>
   <a href="https://instagram.com/shifanasshafeek_" target="_blank"><img src="https://img.shields.io/badge/Instagram-shifanasshafeek__-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
 </p>
