@@ -91,26 +91,6 @@ I am a Computer Science & Engineering undergraduate at **National Institute of T
 
 ---
 
-### 🌟 Leadership & Extracurriculars
-
-*   **CODE.INIT() Hackathon** – Organizer/Core Team Member
-*   **Marketing Head** – Literary & Debate Club, NITC
-*   **CSED Representative** – Student Guidance Cell (SGC), NIT Calicut
-*   **UG Secretary** – Department Curriculum Committee, CSED
-*   **Junior Executive** – Tathva (NITC's Annual Tech Fest)
-*   **Executive Member** – NITC Magazine Committee & Malayalam Street Play Home Team
-
----
-
-### 🏆 Key Achievements & Awards
-
-*   🎤 **Public Speaking:** Winner of Directorate of Sports and Youth Affairs Debate (Govt. of India) | Speak For India District Runner-up | Winner of Green Army Debate (Trivandrum Corp) | Runner-up BITS Goa Inverse Slam Poetry.
-*   📈 **Academics:** Ranked **9th** in PathFinder (All Kerala Test for UPSC Aspirants by Govt. of Kerala) | Ranked **102nd** globally in Global Talent Probe.
-*   🎨 **Arts & Culture:** Awarded **Kalathilakom** at Interschool Zonal Levels | State Level Award Winner for Malayalam Poetry.
-*   🏅 **Leadership:** School Prefect | Silver Medalist at All India Talent Search Examination (NTC).
-
----
-
 ### 📊 GitHub Insights
 
 <div align="center">
